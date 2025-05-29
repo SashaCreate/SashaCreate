@@ -1,39 +1,18 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+## 👋 Hi, I’m Sasha
 
-###
+#### Trying to be competitive in my skills ⚔, while sailing through High-School 🎒.
 
-<p align="left">My name is Sasha ... and I'm a 16-year-old Highschool student Passionate about coading ..., from Maharashtra India ....</p>
+ 
+[![An image of @ternion1121's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ternion1121)](https://holopin.io/@ternion1121)
 
-###
+<hr>
 
-<h2 align="left">About me</h2>
+### About Me
 
-###
+I live in Maharashtra, India ⛰
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+A 12th grade student, pursuing his interests in free-time 
 
-###
+Content Creation 📝, Graphic Designing 📸  and Studying 📚 when not coding 💻 
 
-<h2 align="left">I code with</h2>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-</div>
-
-###
+- My Email: `will update soon...`
