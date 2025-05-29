@@ -3,7 +3,7 @@
 #### Trying to be competitive in my skills ⚔, while sailing through High-School 🎒.
 
  
-[![An image of @SashaCreate's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ternion1121)](https://holopin.io/@ternion1121)
+
 
 <hr>
 
