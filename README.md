@@ -11,7 +11,7 @@
 
 I live in Maharashtra, India ⛰
 
-A 12th grade student, pursuing his interests in free-time 
+A 12th grade student, pursuing her interests in free-time 
 
 Content Creation 📝, Graphic Designing 📸  and Studying 📚 when not coding 💻 
 
