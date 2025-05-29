@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Sasha ... and I'm a 16-year-old Highschool student Passionate about coading ..., from Maharashtra India ....</p>
 
 ###
 
